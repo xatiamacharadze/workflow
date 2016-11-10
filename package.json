@@ -1,0 +1,11 @@
+{
+  "name": "workflow",
+  "version": "1.0.1",
+  "description": "A project to showcase workflows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Khatia Macharadze"
+}
