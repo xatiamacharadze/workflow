@@ -1,4 +1,5 @@
 $(function() {
+	var Mustache = require('mustache');
 
 	$('.tagline').append('The most creative minds in Art');
 
